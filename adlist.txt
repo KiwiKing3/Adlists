@@ -1,3 +1,3 @@
 #KiwiKing's Adlist
-||pagead2.googlesyndication.com^
-||weather-analytics-events.apple.com^
+pagead2.googlesyndication.com
+weather-analytics-events.apple.com
